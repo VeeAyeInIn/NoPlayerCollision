@@ -1,0 +1,8 @@
+name: NoPlayerCollision
+version: ${project.version}
+main: me.vann.minecraft.noplayercollision.NoPlayerCollision
+api-version: 1.13
+prefix: NoPlayerCollision
+load: STARTUP
+authors: [VeeAyeInIn]
+description: Disables collision for players.
